@@ -15,9 +15,9 @@ A smart attendance and safety platform for Hajj pilgrims (graduation project, in
 
 ### Tech
 
-**Languages:** Java · JavaScript · PHP · SQL · PL/SQL · Dart
-**Frontend & Mobile:** HTML · CSS · Flutter
-**Backend & Data:** PostgreSQL · Supabase
+- **Languages:** Java · JavaScript · PHP · SQL · PL/SQL · Dart
+- **Frontend & Mobile:** HTML · CSS · Flutter
+- **Backend & Data:** PostgreSQL · Supabase
 
 ### Connect
 
